@@ -3,7 +3,7 @@
 A smart embedded system that utilizes **ultrasonic sensors**, an **ESP32 microcontroller**, and a **GSM module (SIM800L)** to detect objects or people falling into open pits and sends emergency SMS alerts to preconfigured numbers.
 
 
-### 📸 Project Overview
+### Project Overview
 
 This system is particularly useful for:
 - Construction zones
@@ -77,9 +77,8 @@ pit much high & full closed the person, take action
 ###  Folder Structure
 
 '''
-├── ultrasonic coding.txt
-├── 3 ultrasonic sensor.txt
-├── WhatsApp Image.jpeg
-└── README.md
+ultrasonic coding.txt
+3 ultrasonic sensor.txt
+README.md
 '''
 
